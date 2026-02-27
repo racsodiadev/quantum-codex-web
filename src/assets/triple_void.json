@@ -1,0 +1,33 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "Card",
+            "Nickname": "",
+            "Description": "",
+            "LuaScript": "",
+            "Transform": {
+                "posX": 0,
+                "posY": 0,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 180,
+                "scaleX": 0.8556547619020238,
+                "scaleY": 1,
+                "scaleZ": 0.8556547619020238
+            },
+            "CustomDeck": {
+                "1": {
+                    "FaceUrl": "{verifycache}https://firebasestorage.googleapis.com/v0/b/card-maker-74ec3.appspot.com/o/images%2FGQIiBeWzqOhZU5AQLFZSArGUPHF2%2FTTSFiles%2F49ElYPfBYxe4WvZ76iKV_jZsxnee5ObTAC3hr6Wy7_0.png?alt=media&token=3b5a946b-af73-44fa-aa04-57e959647642",
+                    "BackUrl": "{verifycache}https://firebasestorage.googleapis.com/v0/b/card-maker-74ec3.appspot.com/o/images%2FGQIiBeWzqOhZU5AQLFZSArGUPHF2%2FTTSFiles%2F49ElYPfBYxe4WvZ76iKV_back_jZsxnee5ObTAC3hr6Wy7_0.png?alt=media&token=3b7f318c-e1e9-480f-a477-973b354e6fc7",
+                    "NumWidth": 10,
+                    "NumHeight": 7,
+                    "BackIsHidden": true,
+                    "UniqueBack": false,
+                    "Type": 0
+                }
+            },
+            "CardID": 100
+        }
+    ]
+}
